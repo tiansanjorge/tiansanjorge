@@ -6,14 +6,14 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Greetings! I am Sebastián, feel free to browse through my repositories and get in touch if something catches your eye or if you'd like to give feedback
+<div size='20px'> Greetings! I am Sebastián, feel free to browse through my repositories and get in touch if something catches your eye or if you'd like to give feedback.
 </div>
 
 <h2> About Me</h2>
 
 <img width="28%" align="right" alt="Github" src="https://i.imgur.com/Y7Ugnee.gif" />
 
-- 💻 I’m currently working independently on a website for a psychologist
+- 💻 I’m currently working independently on a website for a psychologist.
   
 - 🔗 I’m currently learning Back End technologies.
   
