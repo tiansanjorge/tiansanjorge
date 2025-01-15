@@ -1,6 +1,4 @@
-<p align="center">
-    <img  src="https://i.imgur.com/1DuCBOT.png">
-</p>
+
 
 <h1> Welcome! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
