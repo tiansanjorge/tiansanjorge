@@ -13,7 +13,7 @@ If (something catches your eye || you would like to work with me || you would li
 
 <img width="28%" align="right" alt="Github" src="https://i.imgur.com/Y7Ugnee.gif" />
 
-- 💻 I’m currently working independently on e-commerces projects for </br> small and medium companys.
+- 💻 I’m currently working independently on e-commerces projects for </br> small and medium companies.
   
 - 🔗 I am currently specializing in more advanced front-end technologies </br> and resources.
   
