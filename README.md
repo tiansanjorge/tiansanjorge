@@ -36,5 +36,6 @@ If (something catches your eye || you would like to work with me) <br/>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h2>
 <p><a href = 'https://www.linkedin.com/in/sebasti%C3%A1n-sanjorge-60a943130/8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+    <p><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/>sanjorgesebastian@gmail.com</p>
 </p>
 
