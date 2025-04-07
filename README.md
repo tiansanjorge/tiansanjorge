@@ -17,7 +17,7 @@
 
 💻 Desarrollador Full Stack con foco en Front-End, especializado en construir interfaces modernas, accesibles y funcionales.  
 🌍 Actualmente trabajo como freelance y busco unirme a un equipo internacional para seguir creciendo profesional y personalmente.  
-📚 Me formé en Henry Bootcamp, y lideré proyectos con tecnologías de última generación.  
+📚 Me formé en Henry Bootcamp y lideré proyectos con tecnologías de última generación.  
 🧠 Entusiasta de los desafíos técnicos y del trabajo en equipo con personas de distintas culturas.  
 🗣 Nivel de inglés: C2 (Proficient) – EF SET 77/100.
 
@@ -71,7 +71,11 @@ Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocad
 
 ---
 
-### 🧱 Stack Tecnológico Visual
+> 💬 *Estoy abierto a nuevas oportunidades, colaboraciones y proyectos freelance. ¡No dudes en escribirme si algo de lo que viste te llamó la atención!*
+
+---
+
+### 🧱 Stack Tecnológico
 
 <!-- Lenguajes -->
 <div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
@@ -113,9 +117,6 @@ Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocad
 <div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
   <strong>Deploy / Infraestructura</strong><br/>
   <img src="https://skillicons.dev/icons?i=vercel,render" title="Vercel, Render" />
-  <span style="margin-left:10px;">FTP</span> • <span style="margin-left:5px;">Custom Domain</span>
 </div>
 
----
 
-> 💬 *Estoy abierto a nuevas oportunidades, colaboraciones y proyectos freelance. ¡No dudes en escribirme si algo de lo que viste te llamó la atención!*
