@@ -50,16 +50,15 @@ Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocad
 ### 💼 Proyectos destacados
 
 🩺 **[Vets for Pets – Frontend](https://front-pf-vets-for-pets-main.vercel.app/)**
-
-App para conectar dueños de mascotas con veterinarias cercanas. Incluye turnos, chat en tiempo real y funciones premium.  
+App para conectar dueños de mascotas con veterinarias cercanas. Incluye turnos, chat en tiempo real, pasarela de pagos & funciones premium.  
 Tecnologías: React • Next.js • Tailwind • NestJS • PostgreSQL  
 → [FrontEnd](https://github.com/tiansanjorge/VetsForPets-Front)
 → [BackEnd](https://github.com/tiansanjorge/VetsForPets-Back)
 
 🛒 **[Innovatica](https://innovaticatech.vercel.app/)**  
-E-commerce de tecnología con excelente UX/UI, carrito de compras, favoritos, notificaciones y más.  
+E-commerce de tecnología con excelente UX/UI, carrito de compras, favoritos, autenticacion & notificaciones por mail.  
 Tecnologías: React • TypeScript • Next.js • Webpack • Tailwind CSS  
-→ [Repo](https://github.com/tiansanjorge/innovatica)
+→ [Repositorio](https://github.com/tiansanjorge/innovatica)
 
 ---
 
