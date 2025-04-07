@@ -25,30 +25,13 @@
 
 ### 🧰 Tecnologías & Herramientas
 
-#### Lenguajes  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-#### Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,sass,bootstrap" />
-</p>
-
-#### Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-#### Base de Datos  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-#### Herramientas y otras  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,webpack,figma,slack,trello" />
-</p>
+**Lenguajes:** HTML • CSS • JavaScript • TypeScript  
+**Frontend:** React • Next.js • Redux • Tailwind CSS • SASS • Bootstrap  
+**Backend:** Node.js • Express • NestJS  
+**Bases de datos:** PostgreSQL • MongoDB • TypeORM 
+**Testing:** Jest • Jasmine
+**Herramientas:** Git • Webpack • Figma • Slack • Trello
+**Deploy / Infraestructura:** Custom Domain Setup • FTP • Vercel • Render
 
 ---
 
@@ -66,9 +49,17 @@ E-commerce de tecnología con excelente UX/UI, carrito de compras, favoritos, no
 Tecnologías: React • TypeScript • Next.js • Webpack • Tailwind CSS  
 → [Repo](https://github.com/tiansanjorge/innovatica)
 
-🌐 **Proyectos freelance:**  
-- [Estudio Jurídico](https://ejer.com.ar/)  
-- [Psicólogo Sanjorge](https://psicologosanjorge.com.ar/)
+---
+
+### 🧑‍💼 Proyectos Freelance (Experiencia Profesional Real)
+
+Durante los últimos años he desarrollado proyectos reales para clientes de distintos rubros, lo cual me permitió aplicar conocimientos técnicos en contextos profesionales, ajustándome a necesidades concretas, tiempos de entrega y objetivos de negocio.
+
+🔹 **[Psicólogo Sanjorge](https://psicologosanjorge.com.ar/)**  
+Página profesional para psicólogo con presentación, marca personal y contacto. Diseño limpio y adaptable, con foco en accesibilidad.  
+
+🔹 **[Estudio Jurídico EJER](https://ejer.com.ar/)**  
+Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocado en claridad, confianza y posicionamiento SEO.  
 
 ---
 
@@ -79,5 +70,38 @@ Tecnologías: React • TypeScript • Next.js • Webpack • Tailwind CSS
 - 🌐 [Portfolio](https://ssanjorge.netlify.app/)  
 
 ---
+
+### 🧱 Stack Tecnológico
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML, CSS, JavaScript, TypeScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,sass,bootstrap" title="React, Next.js, Redux, Tailwind CSS, SASS, Bootstrap" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" title="Node.js, Express, NestJS" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Bases de datos -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" title="PostgreSQL, MongoDB" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Testing -->
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
+  <!-- Jasmine y TypeORM no están disponibles en skillicons -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Herramientas -->
+  <img src="https://skillicons.dev/icons?i=git,webpack,figma,slack,trello" title="Git, Webpack, Figma, Slack, Trello" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Deploy -->
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=render" title="Render" />
+</p>
 
 > 💬 *Estoy abierto a nuevas oportunidades, colaboraciones y proyectos freelance. ¡No dudes en escribirme si algo de lo que viste te llamó la atención!*
