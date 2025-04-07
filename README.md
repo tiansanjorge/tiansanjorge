@@ -58,12 +58,8 @@
 
 App para conectar dueños de mascotas con veterinarias cercanas. Incluye turnos, chat en tiempo real y funciones premium.  
 Tecnologías: React • Next.js • Tailwind • NestJS • PostgreSQL  
-<a href="https://github.com/tiansanjorge/VetsForPets-Front" target="_blank">
-    <img src="https://img.shields.io/badge/FrontEnd-000?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://github.com/tiansanjorge/VetsForPets-Back" target="_blank">
-    <img src="https://img.shields.io/badge/BackEnd-000?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+→ [FrontEnd](https://github.com/tiansanjorge/VetsForPets-Front)
+→ [BackEnd](https://github.com/tiansanjorge/VetsForPets-Back)
 
 🛒 **[Innovatica](https://innovaticatech.vercel.app/)**  
 E-commerce de tecnología con excelente UX/UI, carrito de compras, favoritos, notificaciones y más.  
