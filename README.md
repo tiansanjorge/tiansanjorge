@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://ssanjorge.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-brown?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
@@ -101,7 +101,6 @@ Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocad
 <div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
   <strong>Testing</strong><br/>
   <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
-  <span style="margin-left:10px;">Jasmine</span>
 </div>
 
 <!-- Herramientas -->
