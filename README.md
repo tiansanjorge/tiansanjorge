@@ -35,6 +35,18 @@
 
 ---
 
+### 🧑‍💼 Proyectos Freelance (Experiencia Profesional Real)
+
+Durante los últimos años he desarrollado proyectos reales para clientes de distintos rubros, lo cual me permitió aplicar conocimientos técnicos en contextos profesionales, ajustándome a necesidades concretas, tiempos de entrega y objetivos de negocio.
+
+🔹 **[Psicólogo Sanjorge](https://psicologosanjorge.com.ar/)**  
+Página profesional para psicólogo con presentación, marca personal y contacto. Diseño limpio y adaptable, con foco en accesibilidad.  
+
+🔹 **[Estudio Jurídico EJER](https://ejer.com.ar/)**  
+Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocado en claridad, confianza y posicionamiento SEO.  
+
+---
+
 ### 💼 Proyectos destacados
 
 🩺 **[Vets for Pets – Frontend](https://front-pf-vets-for-pets-main.vercel.app/)**
@@ -51,18 +63,6 @@ Tecnologías: React • TypeScript • Next.js • Webpack • Tailwind CSS
 
 ---
 
-### 🧑‍💼 Proyectos Freelance (Experiencia Profesional Real)
-
-Durante los últimos años he desarrollado proyectos reales para clientes de distintos rubros, lo cual me permitió aplicar conocimientos técnicos en contextos profesionales, ajustándome a necesidades concretas, tiempos de entrega y objetivos de negocio.
-
-🔹 **[Psicólogo Sanjorge](https://psicologosanjorge.com.ar/)**  
-Página profesional para psicólogo con presentación, marca personal y contacto. Diseño limpio y adaptable, con foco en accesibilidad.  
-
-🔹 **[Estudio Jurídico EJER](https://ejer.com.ar/)**  
-Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocado en claridad, confianza y posicionamiento SEO.  
-
----
-
 ### 📫 Contacto
 
 - 📩 sanjorgesebastian@gmail.com  
@@ -74,49 +74,3 @@ Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocad
 > 💬 *Estoy abierto a nuevas oportunidades, colaboraciones y proyectos freelance. ¡No dudes en escribirme si algo de lo que viste te llamó la atención!*
 
 ---
-
-### 🧱 Stack Tecnológico
-
-<!-- Lenguajes -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Lenguajes</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML, CSS, JavaScript, TypeScript" />
-</div>
-
-<!-- Frontend -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,sass,bootstrap" title="React, Next.js, Redux, Tailwind CSS, SASS, Bootstrap" />
-</div>
-
-<!-- Backend -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" title="Node.js, Express, NestJS" />
-</div>
-
-<!-- Bases de datos -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Bases de Datos</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" title="PostgreSQL, MongoDB" />
-</div>
-
-<!-- Testing -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Testing</strong><br/>
-  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
-</div>
-
-<!-- Herramientas -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Herramientas</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,webpack,figma,slack,trello" title="Git, Webpack, Figma, Slack, Trello" />
-</div>
-
-<!-- Deploy -->
-<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
-  <strong>Deploy / Infraestructura</strong><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,render" title="Vercel, Render" />
-</div>
-
-
