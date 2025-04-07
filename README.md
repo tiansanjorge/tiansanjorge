@@ -5,8 +5,11 @@
   <a href="https://www.linkedin.com/in/sebastian-sanjorge-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/tiansanjorge" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
   <a href="https://ssanjorge.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ssanjorge.netlify.app-ff69b4?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
