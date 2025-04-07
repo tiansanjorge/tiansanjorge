@@ -1,41 +1,81 @@
+<h1 align="center">👋 ¡Hola! Soy Sebastián Sanjorge</h1>
+<h3 align="center">Desarrollador Full Stack con alma de Front-End • Buenos Aires, Argentina</h3>
 
-
-<h1> Welcome! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-sanjorge-frontend-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://ssanjorge.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ssanjorge.netlify.app-ff69b4?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
-<div size='20px'> Greetings! I am Sebastián, feel free to browse through my repositories. <br/>
-If (something catches your eye || you would like to work with me) <br/>
-    { Don´t hesitate to get in touch! }.
-</div>
+---
 
-<h2> About Me</h2>
+### 🚀 Sobre mí
 
-<img width="28%" align="right" alt="Github" src="https://i.imgur.com/Y7Ugnee.gif" />
+💻 Desarrollador Full Stack con foco en Front-End, especializado en construir interfaces modernas, accesibles y funcionales.  
+🌍 Actualmente trabajo como freelance y busco unirme a un equipo internacional para seguir creciendo profesional y personalmente.  
+📚 Me formé en Henry Bootcamp, y lideré proyectos con tecnologías de última generación.  
+🧠 Entusiasta de los desafíos técnicos y del trabajo en equipo con personas de distintas culturas.  
+🗣 Nivel de inglés: C2 (Proficient) – EF SET 77/100.
 
-- 💻 I’m currently working independently developing presentation websites.
-  
-- 🔗 I am also specializing in more advanced front-end technologies </br> and resources like Redux & Vue.js.
-  
-- 🏢 I’m looking forward to join a team within a company.
-  
-- 🔥 I have the ambition to grow as a professional and the confidence of </br> knowing that what I do is my passion.
-  
-- <a style="color: #ffffff" href = 'https://ssanjorge.netlify.app/'> 💼 Portfolio </a> 
+---
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
+### 🧰 Tecnologías & Herramientas
 
+#### Lenguajes  
 <p>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'></p>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h2>
-<p><a href = 'https://www.linkedin.com/in/sebasti%C3%A1n-sanjorge-60a943130/8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-    <p>sanjorgesebastian@gmail.com</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
+#### Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,sass,bootstrap" />
+</p>
+
+#### Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+#### Base de Datos  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+#### Herramientas y otras  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,webpack,figma,slack,trello" />
+</p>
+
+---
+
+### 💼 Proyectos destacados
+
+🩺 **[Vets for Pets – Frontend](https://front-pf-vets-for-pets-main.vercel.app/)**
+
+App para conectar dueños de mascotas con veterinarias cercanas. Incluye turnos, chat en tiempo real y funciones premium.  
+Tecnologías: React • Next.js • Tailwind • NestJS • PostgreSQL  
+→ [Repo Frontend](https://github.com/tiansanjorge/VetsForPets-Front) | [Repo Backend](https://github.com/tiansanjorge/VetsForPets-Back)
+
+🛒 **[Innovatica](https://innovaticatech.vercel.app/)**  
+E-commerce de tecnología con excelente UX/UI, carrito de compras, favoritos, notificaciones y más.  
+Tecnologías: React • TypeScript • Next.js • Webpack • Tailwind CSS  
+→ [Repo](https://github.com/tiansanjorge/innovatica)
+
+🌐 **Proyectos freelance:**  
+- [Estudio Jurídico](https://ejer.com.ar/)  
+- [Psicólogo Sanjorge](https://psicologosanjorge.com.ar/)
+
+---
+
+### 📫 Contacto
+
+- 📩 sanjorgesebastian@gmail.com  
+- 📱 +54 9 11 6006 9979  
+- 🌐 [Portfolio](https://ssanjorge.netlify.app/)  
+
+---
+
+> 💬 *Estoy abierto a nuevas oportunidades, colaboraciones y proyectos freelance. ¡No dudes en escribirme si algo de lo que viste te llamó la atención!*
