@@ -71,37 +71,52 @@ Sitio web institucional para un estudio de abogados. Diseño sofisticado enfocad
 
 ---
 
-### 🧱 Stack Tecnológico
+### 🧱 Stack Tecnológico Visual
 
-<p align="center">
-  <!-- Lenguajes -->
+<!-- Lenguajes -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Lenguajes</strong><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML, CSS, JavaScript, TypeScript" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,sass,bootstrap" title="React, Next.js, Redux, Tailwind CSS, SASS, Bootstrap" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" title="Node.js, Express, NestJS" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" title="PostgreSQL, MongoDB" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
-  <!-- Jasmine y TypeORM no están disponibles en skillicons -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Herramientas -->
-  <img src="https://skillicons.dev/icons?i=git,webpack,figma,slack,trello" title="Git, Webpack, Figma, Slack, Trello" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
-  <!-- Deploy -->
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=render" title="Render" />
-</p>
+<!-- Frontend -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,sass,bootstrap" title="React, Next.js, Redux, Tailwind CSS, SASS, Bootstrap" />
+</div>
+
+<!-- Backend -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Backend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" title="Node.js, Express, NestJS" />
+</div>
+
+<!-- Bases de datos -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Bases de Datos</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" title="PostgreSQL, MongoDB" />
+</div>
+
+<!-- Testing -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Testing</strong><br/>
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
+  <span style="margin-left:10px;">Jasmine</span>
+</div>
+
+<!-- Herramientas -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Herramientas</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,webpack,figma,slack,trello" title="Git, Webpack, Figma, Slack, Trello" />
+</div>
+
+<!-- Deploy -->
+<div style="border:1px solid #444; padding:10px; margin-bottom:15px; text-align:center;">
+  <strong>Deploy / Infraestructura</strong><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,render" title="Vercel, Render" />
+  <span style="margin-left:10px;">FTP</span> • <span style="margin-left:5px;">Custom Domain</span>
+</div>
+
+---
 
 > 💬 *Estoy abierto a nuevas oportunidades, colaboraciones y proyectos freelance. ¡No dudes en escribirme si algo de lo que viste te llamó la atención!*
