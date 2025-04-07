@@ -5,11 +5,9 @@
   <a href="https://www.linkedin.com/in/sebastian-sanjorge-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/tiansanjorge" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  
   <a href="https://ssanjorge.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
@@ -60,7 +58,12 @@
 
 App para conectar dueños de mascotas con veterinarias cercanas. Incluye turnos, chat en tiempo real y funciones premium.  
 Tecnologías: React • Next.js • Tailwind • NestJS • PostgreSQL  
-→ [Repo Frontend](https://github.com/tiansanjorge/VetsForPets-Front) | [Repo Backend](https://github.com/tiansanjorge/VetsForPets-Back)
+<a href="https://github.com/tiansanjorge/VetsForPets-Front" target="_blank">
+    <img src="https://img.shields.io/badge/FrontEnd-000?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/tiansanjorge/VetsForPets-Back" target="_blank">
+    <img src="https://img.shields.io/badge/BackEnd-000?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 
 🛒 **[Innovatica](https://innovaticatech.vercel.app/)**  
 E-commerce de tecnología con excelente UX/UI, carrito de compras, favoritos, notificaciones y más.  
