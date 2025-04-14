@@ -51,7 +51,7 @@ Corporate website for a law firm. Sophisticated design focused on clarity, trust
 
 🩺 **[Vets for Pets – Frontend](https://front-pf-vets-for-pets-main.vercel.app/)**  
 App that connects pet owners with nearby vet clinics. Features appointments, real-time chat, payment gateway & premium features.  
-Tech Stack: React • Next.js • Tailwind • NestJS • PostgreSQL  
+Tech Stack: React • Typescript • Next.js • Tailwind • PostgreSQL  
 → [FrontEnd](https://github.com/tiansanjorge/VetsForPets-Front)  
 → [BackEnd](https://github.com/tiansanjorge/VetsForPets-Back)
 
