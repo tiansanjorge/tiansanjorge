@@ -39,7 +39,7 @@
 
 Over the past few years, I’ve developed real-world projects for clients across various industries. These experiences allowed me to apply technical knowledge in professional contexts, adapting to specific needs, delivery timelines, and business goals.
 
-🔹 **[Psicólogo Sanjorge](https://psicologosanjorge.com.ar/)**  
+🔹 **[Psicólogo JPS](https://psicologosanjorge.com.ar/)**  
 Professional website for a psychologist with personal branding and contact tools. Clean, responsive design with a focus on accessibility.
 
 🔹 **[Estudio Jurídico EJER](https://ejer.com.ar/)**  
