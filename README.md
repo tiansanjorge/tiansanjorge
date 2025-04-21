@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Sebastián Sanjorge</h1>
 <h3 align="center">Full Stack Developer with a Front-End Soul • Buenos Aires, Argentina</h3>
 
-<p align="center">
+<p align="center" ->
   <a href="https://www.linkedin.com/in/sebastian-sanjorge-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
