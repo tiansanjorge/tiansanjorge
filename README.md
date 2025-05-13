@@ -67,9 +67,3 @@ Tech Stack: React • TypeScript • Next.js • Webpack • Tailwind CSS
 - 📩 sanjorgesebastian@gmail.com  
 - 📱 +54 9 11 6006 9979  
 - 🌐 [Portfolio](https://ssanjorge.netlify.app/)
-
----
-
-> 💬 *I’m open to new opportunities, collaborations, and freelance projects. Feel free to reach out if anything caught your eye!*
-
----
