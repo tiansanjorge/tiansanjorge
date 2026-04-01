@@ -1,6 +1,6 @@
 # Sebastian Sanjorge — Frontend Engineer
 
-Frontend Engineer building scalable, production-grade frontend systems using React, TypeScript, and modern architecture patterns.
+Frontend Engineer building scalable, production-grade frontend systems using React, TypeScript, Next.js, and modern architecture patterns.
 
 Experience in real-time applications, microfrontend architectures, and complex UI systems within international teams.
 
