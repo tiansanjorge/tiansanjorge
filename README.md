@@ -1,66 +1,77 @@
-# Sebastian Sanjorge — Frontend Engineer
+# Sebastián Sanjorge
 
-Frontend Engineer building scalable, production-grade frontend systems using React, TypeScript, Next.js, and modern architecture patterns.
+**Full Stack Engineer · Frontend Specialist**
 
-Experience in real-time applications, microfrontend architectures, and complex UI systems within international teams.
+I build and evolve modern web applications with a strong focus on **React, Next.js and TypeScript**, while working across **APIs, backend integration, authentication, data, infrastructure and production delivery**.
 
-Portfolio: https://ssanjorge.netlify.app/
+My strongest area is Frontend Engineering, but I approach applications as complete systems — understanding how the different layers interact, solving problems across boundaries, and taking ownership from implementation through delivery.
+
+## 🚀 What I do
+
+- 🎨 **Frontend Engineering** — React, Next.js, TypeScript, component architecture, state, responsive UI and performance.
+- 🔗 **Full Stack Engineering** — REST APIs, Node.js, backend integration, authentication, RBAC and realtime systems.
+- 🏗️ **Architecture & Problem Solving** — reusable systems, technical trade-offs and cross-layer debugging.
+- ☁️ **Delivery** — Docker, Nginx, Linux, GitHub Actions, Cloudflare and cloud services.
+- 📦 **Product Engineering** — translating requirements and product constraints into practical technical solutions.
+
+## 🛠️ Core stack
+
+**React · TypeScript · Next.js**
+
+`Node.js` `Fastify` `Express` `PostgreSQL` `Prisma` `REST APIs` `JWT` `RBAC` `Zustand` `Redux Toolkit` `Vitest` `React Testing Library` `WebSockets` `Socket.IO` `Tailwind CSS` `MUI` `Git` `GitHub Actions` `Docker` `Nginx` `Linux` `Cloudflare`
+
+## 💼 Selected professional work
+
+### 🌐 Terragene
+
+A complex freelance project that expanded my work beyond frontend into **Full Stack integration and systems-oriented engineering**.
+
+Built and evolved a corporate platform using **Next.js + WordPress Headless**, integrating APIs, dynamic and multilingual content, external services and production infrastructure.
+
+Key areas:
+
+- Frontend architecture and integration
+- Backend and external APIs
+- WordPress Headless
+- SEO, analytics and performance
+- Debugging across application layers
+- Deployment and production delivery
+- Coordination with Backend, PM and client
+
+### 🏢 IPH
+
+Frontend engineering within an international product environment, working across **architecture, reusable systems, state management, authorization, testing, debugging and technical coordination**.
+
+### 🚚 FleetOps
+
+Personal Full Stack project focused on **REST/WebSockets, authentication, RBAC, PostgreSQL, Fastify, Prisma, realtime systems and performance**.
+
+> Personal project. Implementation was developed 100% with AI assistance, with technical direction, architectural decisions, evaluation and debugging under my responsibility.
+
+## 🧭 Engineering approach
+
+**Understand → Investigate → Design → Implement → Validate → Iterate**
+
+I value **simplicity, useful abstraction, clear boundaries and pragmatic trade-offs** across maintainability, performance, UX, integration and product requirements.
+
+## 🤖 AI-assisted engineering
+
+AI is part of my engineering workflow, not a substitute for technical judgment.
+
+I use **Claude Code and MCP** for research, exploration, debugging and implementation acceleration, alongside ongoing **AI Engineering training** covering RAG, embeddings, agents, LangChain, LangGraph, MCP, multimodal systems, PEFT/LoRA and evaluation.
+
+## 🎓 Background
+
+**IPH** · **Freelance** · **Henry** · **Personal Projects**
+
+Universidad de Buenos Aires — Design Studies
+
+**Spanish:** Native · **English:** C1
+
+## 🎯 Currently interested in
+
+**Frontend Engineer · Frontend Software Engineer · Full Stack Engineer · Full Stack / Frontend-heavy Product Engineering**
 
 ---
 
-## What I Do
-
-- Build scalable frontend systems beyond single-page applications
-- Design modular architectures (microfrontends, domain separation)
-- Handle complex state and real-time data flows
-- Implement consistent access control systems (RBAC) across applications
-- Optimize performance in high-demand interfaces
-- Apply TDD practices to ensure reliability in critical features
-
----
-
-## Experience Highlights
-
-- Developed and maintained a real-time geolocation platform for underground mining operations
-- Worked in an international engineering team (Spain), contributing to architectural decisions
-- Implemented a scalable **RBAC system** across routes and components
-- Built frontend systems using **microfrontend architecture** with independent modules
-- Improved rendering performance and responsiveness in real-time views
-- Applied **TDD** using Vitest and React Testing Library in production-critical features
-
----
-
-## Tech Stack
-
-- **Frontend**: React, TypeScript, Next.js  
-- **State & UI**: Zustand, MUI, Tailwind  
-- **Testing**: Vitest, React Testing Library  
-- **Backend (foundations)**: Node.js  
-
----
-
-## Featured Work
-
-**Microfrontend Architecture — React + Module Federation**
-
-A modular frontend system composed of a host application, two independently deployed microfrontends, and a custom shared UI library.
-
-- Runtime integration using Module Federation
-- Domain-based separation of concerns
-- Shared UI strategy without tight coupling
-- Designed for scalability across teams
-
-Repository: https://github.com/tiansanjorge/microfrontends-architecture
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/sebastian-sanjorge-frontend-developer/  
-- GitHub: https://github.com/tiansanjorge  
-
----
-
-## Introduction (35s)
-
-https://www.youtube.com/watch?v=qlBhpazVkCQ
+**React · TypeScript · Next.js · Full Stack · Node.js · APIs · Frontend Architecture · Backend Integration · Debugging · Product Engineering**
